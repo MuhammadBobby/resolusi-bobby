@@ -1,5 +1,5 @@
 rencana lain 
 
 - mepelajari bahasa pemrograman lain : 
-seperti C++, JavaSript,dll
+seperti C++, JavaSript,react, php, phyton, dll
 - berusaha untuk memaksimalkan bahasa yang sudah dipelajari
